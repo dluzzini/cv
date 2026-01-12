@@ -1,0 +1,9 @@
+project:
+  title: "Davide Luzzini - CV"
+
+format:
+  html:
+    css: styles/styles.css
+  pdf:
+    include-in-header: tex/preamble.tex
+

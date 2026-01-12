@@ -1,0 +1,127 @@
+% =========================
+% PDF preamble for Quarto (KOMA-safe, CV look, Aptos)
+% =========================
+
+% -------------------------
+% Fonts (LuaLaTeX)
+% -------------------------
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\usepackage{etoolbox}
+\usepackage{titling}
+\usepackage[x11names]{xcolor}
+
+% -------------------------
+% Fonts setup
+% -------------------------
+\setmainfont{Aptos}[Ligatures=TeX]
+\setsansfont{Aptos}[Ligatures=TeX]
+\setmonofont{Aptos Mono}
+\setmathfont{latinmodern-math.otf}
+
+% Title font family (Light only)
+\newfontfamily\aptoslight{Aptos Light}
+
+% -------------------------
+% Page layout
+% -------------------------
+\usepackage{geometry}
+\geometry{margin=1in}
+
+% -------------------------
+% Typography polish
+% -------------------------
+\usepackage{microtype}
+\microtypesetup{protrusion=true}
+
+\usepackage{setspace}
+\setstretch{1.12}
+
+% CV-like paragraphs
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4.5pt}
+
+% -------------------------
+% Lists: force tight spacing despite parskip
+% -------------------------
+\usepackage{enumitem}
+\setlist[itemize]{itemsep=0pt, topsep=2pt, partopsep=0pt, parsep=0pt}
+\setlist[enumerate]{itemsep=0pt, topsep=2pt, partopsep=0pt, parsep=0pt}
+
+% Pandoc emits \tightlist; redefine it properly
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}%
+  \setlength{\parskip}{0pt}%
+  \setlength{\parsep}{0pt}%
+}
+
+% -------------------------
+% Title styling (Aptos Light)
+% -------------------------
+\setkomafont{title}{\aptoslight\fontsize{28}{32}\selectfont}
+\setkomafont{subtitle}{\aptoslight\fontsize{13}{16}\selectfont}
+\setkomafont{author}{\normalfont\fontsize{11}{13}\selectfont}
+\setkomafont{date}{\normalfont\fontsize{10.5}{12.5}\selectfont}
+
+\providecommand{\thesubtitle}{}
+
+% -------------------------
+% Title block (late override; adds gray rule)
+% -------------------------
+\AtBeginDocument{%
+  \renewcommand{\maketitle}{%
+    \begin{center}
+      {\usekomafont{title}\thetitle\par}
+      \ifx\thesubtitle\empty\else
+        \vspace{0.35em}
+        {\usekomafont{subtitle}\thesubtitle\par}
+      \fi
+      \vspace{0.6em}
+    \end{center}
+    \par\noindent{\color{black!40}\rule{\linewidth}{0.4pt}}\par
+    \vspace{1.0em}
+  }%
+}
+
+% -------------------------
+% Headings (KOMA-safe)
+% -------------------------
+\RedeclareSectionCommand[
+  beforeskip=2.0ex plus .4ex minus .2ex,
+  afterskip=0.6ex plus .2ex
+]{section}
+
+\RedeclareSectionCommand[
+  beforeskip=1.6ex plus .3ex minus .2ex,
+  afterskip=0.45ex plus .2ex
+]{subsection}
+
+\RedeclareSectionCommand[
+  beforeskip=1.2ex plus .2ex minus .2ex,
+  afterskip=0.35ex plus .2ex
+]{subsubsection}
+
+\setkomafont{section}{\sffamily\bfseries\fontsize{20}{24}\selectfont}
+\setkomafont{subsection}{\sffamily\bfseries\fontsize{15.5}{19}\selectfont}
+\setkomafont{subsubsection}{\sffamily\bfseries\fontsize{13}{16}\selectfont}
+
+% -------------------------
+% Links (no boxes)
+% -------------------------
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=black,
+  citecolor=black
+}
+
+% -------------------------
+% Code blocks
+% -------------------------
+\usepackage{listings}
+\lstset{
+  basicstyle=\ttfamily\small,
+  breaklines=true,
+  frame=single
+}
