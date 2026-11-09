@@ -1,0 +1,436 @@
+---
+title: "Davide Luzzini"
+subtitle: "Full Professor & Director of Research (until December 2026) | EADA Business School Barcelona"
+
+output-file: davide-luzzini-cv
+
+format:
+  html:
+    css: styles/styles.css
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+    format-links: false
+  pdf:
+    pdf-engine: lualatex
+    include-in-header: tex/preamble.tex
+    toc: false
+
+validate-yaml: false
+bibliography:
+  journals: bib/journals.bib
+  books: bib/books.bib
+  other: bib/other.bib
+filters:
+  - multibib
+nocite: |
+  @*
+
+csl: csl/apa-cv.csl
+
+execute:
+  echo: false
+---
+<!-- comment -->  
+:::{.cv-header}
+Barcelona, Spain • [dluzzini@eada.edu](mailto:dluzzini@eada.edu){{< meta private-contact >}} • [LinkedIn](https://www.linkedin.com/in/davide-luzzini/) • [ORCID](https://orcid.org/0000-0002-9062-0806) • [Google Scholar](https://scholar.google.es/citations?hl=en&user=Vc2t0NgAAAAJ&view_op=list_works&sortby=pubdate)
+:::
+<!--[www.davideluzzini.com](https://www.davideluzzini.com) • -->  
+## Summary
+I earned my PhD in Management, Economics and Industrial Engineering from Politecnico di Milano (2010) and I am currently Full Professor at EADA Business School Barcelona, where I am also Director of Research until December 2026. My research focuses on sustainable supply chains, approached through the lenses of complexity, social impact, systems thinking, and post-growth. My work has been published in leading international journals and is supported by competitive funded research projects and applied collaborations. Alongside research, I have extensive teaching experience across BSc, MSc, MBA, DBA, PhD, and executive education programs since 2007. I have been serving the academic community as reviewer, senior journal editor, and board member. I currently act as co-editor-in-chief of the Journal of Supply Chain Management.
+
+## National accreditations (Spanish system)
+- Habilitation equivalent to Full Professor (**Catedrático**) AQU/ANECA n. 0233/1324/2018.
+- Research evaluation periods (**Sexenios**): **(1)** 2010-2015 PXWF6KG35; **(2)** 2016-2021 LH3WBNFZD.
+
+## Academic appointments
+- **2018-present** — Full Professor, **EADA Business School**, Barcelona, Spain.
+- **2017-2018** — Associate Professor, **EADA Business School**, Barcelona, Spain.
+- **2019-December 2026** — Director of Research, **EADA Business School**, Barcelona, Spain.
+- **2016-2017** — Associate Professor & Director of the PhD Summer Academy, **Zaragoza Logistics Center (MIT-SCALE)**, Zaragoza, Spain.
+- **2014-2016** — Associate Professor, **Audencia Nantes School of Management**, Nantes, France.
+- **2010-2014** — Assistant Professor, **Politecnico di Milano** School of Management, Milan, Italy (also Director of the Executive Program in Strategic Purchasing and Short Courses in Purchasing).
+
+## Visiting appointments
+- **2023-2027** — Visiting Professor, **LUT University**, hosted by Prof. Anni-Kaisa Kähkönen, Finland.
+- **2016-2018** — Research Affiliate, **MIT**.
+- **2017** — Visiting, **Oregon State University** and **Portland State University**, hosted by Prof. Zhaohui Wu and Prof. Mellie Pullman, USA.
+- **2009** — Visiting Research Fellow, CAPS Research & W.P. Carey School of Business, **Arizona State University** (Tempe, AZ), project *Achieving Environmental Sustainability Through Effective Supplier Collaboration*, supervisors Prof. Phillip Carter and Prof. Joseph Carter, USA.
+
+## Editorial roles and professional leadership
+- **2025-2027** — Journal of Supply Chain Management (**JSCM**), Co-editor-in-chief.
+- **2016-present** — Journal of Purchasing and Supply Management (**JPSM**), Associate Editor.
+- **2013-2024** — Operations Management Research (**OMR**) journal, Area Editor.
+- **2013-2025** — **IPSERA**, Executive Committee member; Conference Chair (2023); Organizer of the annual Doctoral Workshop.
+- **2024-present** — **EADA Ethical Review Board**, Coordinator.
+- Memberships: Academy of Management (AoM); IPSERA; EurOMA.
+
+## Education
+- **2010** — **PhD** in Management, Economics and Industrial Engineering, Politecnico di Milano, Milan, Italy. Thesis: *Creating value through purchasing*. Supervisors: Prof. Gianluca Spina and Prof. Stefano Ronchi.
+- **2006** — **MSc** in Management Engineering, Politecnico di Milano, Milan, Italy. Final grade: 110/110 cum laude. Award: “Pier Daniele Melegari” prize (Milan Chamber of Commerce).
+- **2003** — **BSc** in Management Engineering, Politecnico di Milano, Milan, Italy. Final grade: 110/110 cum laude. Award: named among the best students for the “Emilio Massa” prize.
+
+### Additional education & training
+- **2004** — Royal Melbourne Institute of Technology (RMIT), Melbourne, Australia — overseas exchange program; top grades in attended courses; “Excellent Student Award” in Business Finance and Financial Markets.
+- **2003-2007** — Collegio di Milano, Milan, Italy — excellence program for best international students of the seven Milan universities.
+- **2000** — Liceo Scientifico G. Aselli, Cremona, Italy — High school diploma, final grade: 100/100.
+
+```{=latex}
+\newpage
+```
+
+## Research areas (selected)
+*Note: the topics are ordered from the most recent to the oldest.*
+
+- **Post-growth supply chain management** Supply-chain implications of business models where endless economic growth is no longer the default assumption, rethinking goals, metrics, and governance accordingly.
+- **Systemic change through supply chains** Multi-actor pathways (including social enterprises and meta-organizations) through which supply networks contribute to system change beyond firm boundaries.
+- **Social impact supply chains and hybridity** Supply chains involving social enterprises and hybrid organizations, focusing on institutional complexity, tension management, and the creation of social value while remaining economically viable.
+- **Supply chain complexity** Structural and dynamic complexity in supply bases and networks, including evidence synthesis on performance effects and conceptual work that clarifies dimensions and management approaches.
+- **Sustainable supply chain management** Upstream and network-level practices that translate sustainability commitments into environmental, social, and economic performance, including capability building across purchasing and suppliers.
+- **Supply chain transparency and structure** Links between supply chain structure, disclosure, and transparency at scale, addressing how network configuration affects visibility and accountability.
+- **Public procurement** Organizational forms, strategies, and performance management of procurement in public bodies, including cross-country comparisons and social-value creation through public buying.
+- **Supply chain finance** Financial arrangements and SCF instruments that support working capital and resilience across interdependent supply-chain partners.
+- **Digital procurement** Adoption trajectories, value assessment, and organizational implications of e-procurement/e-sourcing tools and digital practices in purchasing processes.
+- **Innovation in supply networks** Supplier involvement and purchasing interfaces in new product development and broader innovation outcomes, including network-level innovation configurations.
+- **Supply chain performance measurement and vendor evaluation** Design and use of supplier evaluation systems and inter-organizational performance measurement architectures that regulate behaviors, manage risk, and drive improvement across dyads and networks.
+- **Buyer–supplier relationship orchestration** Governance mechanisms (e.g., collaboration, incentives, monitoring, relational capabilities) that shape supplier commitment, innovation outcomes, and supply-network performance.
+- **Purchasing and supply management strategy** Creating value through purchasing via category-level decisions on sourcing, portfolio management, and the organizational design and maturity of the purchasing function.
+- **International Purchasing Survey (IPS)** Longitudinal, multi-country survey infrastructure enabling comparative analysis of purchasing and supply management practices, capabilities, and performance across institutional and cultural contexts.
+- **Offshoring and global service sourcing** Drivers, location factors, governance models, and risk–performance trade-offs in service offshoring decisions using international comparative data from the Offshoring Research Network (ORN).
+- **SCM–HRM interface** Cross-functional alignment between human resource management and supply chain management, including how green HRM mediates stakeholder pressures into environmental performance.
+- **Food networks and local–global governance** Governance mechanisms and supply-chain configurations in food systems, addressing tensions between local embeddedness and global sourcing/markets.
+- **Sector-specific purchasing models** Purchasing organization and practices in distinctive contexts such as luxury industries and IT purchasing categories, highlighting contingencies in governance and capability requirements.
+
+```{=latex}
+\newpage
+```
+
+## Grants and funded projects (selected)
+### Public competitive funding
+- **2025–2027 | ExpWork** — Sponsor: GENERACIÓN DE CONOCIMIENTO 2023 – Ministerio de Economía y Competitividad, Grant Ref. PID2023-150698NB-I00; Amount: €62,250; Pre-doctoral contract: 1 (€125,200); Duration: 01/01/2025–31/12/2027; Principal Investigators: Annachiara Longoni, Frank Wiengarten; Eliminación de la explotación laboral en las cadenas de suministro: el efecto mitigador de la regulación y la atención pública.
+- **2025–2026 | Sociotechnical Systems for Decent Work in the Era of Aging and Technology** — Sponsor: Center for the Future of Active Aging – La Caixa Foundation; Amount: €36,000; Duration: 01/09/2025–31/08/2026; Principal Investigator: Annachiara Longoni.
+- **2016–2020 | AGROinLOG** — Sponsor: European Union (EU), Grant Ref. 727961; Amount: €359,060; Duration: 01/11/2016–30/04/2020; Lead researcher: Susana Val; Website: https://www.agroinlog-h2020.eu; Integrated biomass logistics centers for the agro-industry sector.
+- **2015–2019 | LEARN** — Sponsor: European Union (EU), Grant Ref. 723984; Amount: €136,000; Duration: 01/09/2015–31/03/2019; Lead researcher: Susana Val; Website: https://www.learn-logistics.eu; Emissions measurement, reporting and verification in global supply chains.
+- **2007-2008** — FIRST — EU-funded project on furniture industry restructuring (new product development and SCM); Lead researcher: Alessio Marchesi.
+
+### Research group recognition
+- **2025 SGR 00694 | Sustainability Hub research group** — Recognised research group (category B, provisional resolution October 2026), SGR-Cat 2025 call, AGAUR – Generalitat de Catalunya; Role: Principal Investigator and coordinator.
+
+### Private projects
+- **2023 | IPSERA Conference** — Sponsor: Several private sponsors; Amount: ~€25,000; Lead researcher: Davide Luzzini.
+- **2013–2015 | Supply Chain Finance Observatory** — Sponsor: Several private sponsors; Amount: ~€50,000 per year; Duration: 2013–2015; Lead researchers: Alessandro Perego, Stefano Ronchi.
+- **2009–2014 | International Purchasing Survey** — Sponsor: Several private sponsors; Amount: ~€50,000; Duration: 2009–2014; Lead researchers: Davide Luzzini, Stefano Ronchi.
+- **2007–2012 | eProcurement and eSourcing Trends** — Sponsor: IBM; Amount: ~€70,000 per year; Duration: 2007–2012; Lead researcher: Stefano Ronchi.
+
+```{=latex}
+\newpage
+```
+
+## Doctoral theses
+### Supervision
+- **2017 | Supply chain performance measurement systems: a lifecycle perspective on the relationship with performance improvement**
+  Doctoral candidate: Vieri Maestrini; Institution: Politecnico di Milano; Role: Co-supervisor (with F. Caniato, P. Maccarrone); Date of defence: 07/02/2017.
+- **2014 | Creating public value through procurement: organizational levers for improving public procurement performance**
+  Doctoral candidate: Andrea Patrucco; Institution: Politecnico di Milano; Role: Co-supervisor (with S. Ronchi, F. Cagliano); Date of defence: 16/12/2014.
+
+### Defenses and thesis examinations
+- **2026 | Navigating Climate Change as a Management Grand Challenge**
+  Doctoral candidate: Giorgia Condomitti; Institution: Scuola Superiore Sant'Anna, Pisa; Supervisor: Prof. Marco Frey; Role: External thesis reviewer and member of the examination committee.
+- **2025 | Social Enterprises at a Crossroads: Balancing Social and Commercial Missions through Business Models, Supplier Selection, and Impact Scaling**
+  Doctoral candidate: Xiying Zhang; Institution: University of Groningen; Supervisors: Prof. D.P. van Donk, Prof. M. Pullman; Role: Member of the assessment committee and of the defence committee.
+- **2025 | Embracing the Mess? Building Sustainability and Resilience at Supply Chains' Upstream End. Insights into Digital Technologies, Dynamic Capabilities and Complex Adaptive Systems**
+  Doctoral candidate: Lisa Heldt; Institution: Lund University (IIIEE); Supervisors: Prof. Philip Peck (IIIEE), Johan Olausson (Tetra Pak AB), Julian Fox (Tetra Pak AB); Role: Discussant, final PhD seminar.
+- **2024 | Digital Technologies and Supply Chain Sustainability: How Buyers and Suppliers Value Emerging Solutions**
+  Doctoral candidate: Sukrit Vinayavekhin; Institution: City, University of London (Bayes Business School); Supervisors: Prof. Feng Li, Dr. Aneesh Banerjee; Role: External examiner.
+- **2021 | E-Supply chain collaboration: investigation of the solutions in the grocery industry**
+  Doctoral candidate: Camillo Loro; Institution: Politecnico di Milano; Supervisor: Prof. Riccardo Mangiaracina; Role: Opponent and member of the examination committee.
+- **2020 | Exploration & Exploitation: Reconciling Product Innovation and Supply Chain Performance in Consumer Packaged Goods Manufacturing**
+  Doctoral candidate: Leonardo Laranjeira Gomes; Institution: University of Zaragoza; Supervisors: Dr. Desirée Knoppen, Dr. Yasel Costa Salas; Role: Secretary of the doctoral tribunal.
+- **2019 | Purchasing role in contributing to innovation exploration: examining awareness, motivations and new capabilities**
+  Doctoral candidate: Francois Constant; Institution: Politecnico di Milano; Supervisor: Prof. Thomas Johnsen; Role: External thesis reviewer (admission to the final defence).
+
+## Evaluation activities
+- **2022 | Tenure review** — Candidate: Max Finne; Institution: Aalto University School of Business.
+- **2016 | Invited expert panel** — Invited expert for the 2011-2014 Italian research system evaluation (VQR) conducted by the Italian Research and University Evaluation Agency (ANVUR).
+
+```{=latex}
+\newpage
+```
+
+## Consulting activities (selected)
+- **2022–2025** Product development of supply chain mapping software. Client: Vizzuality.
+- **2020–2022** System change and social enterprises. Client: Ashoka.
+- **2018–2020** Supply chain innovation and distant capabilities. Client: ABB.
+- **2016–2017** AGROinLOG. Client: European Union.
+- **2016–2017** LEARN. Client: European Union.
+- **2013–2015** Supply Chain Finance Observatory. Client: Politecnico di Milano.
+- **2013–2014** Vendor evaluation system design. Client: Mediolanum Bank.
+- **2013–2014** Training program and capability assessment. Client: Siram.
+- **2012–2015** CPO Innovation Community. Client: Politecnico di Milano.
+- **2012** Procurement professionals and social media. Client: IBM.
+- **2010–2011** E-Procurement internal value assessment. Client: IBM.
+- **2009** E-Procurement external value assessment. Client: IBM.
+- **2008–2009** Leading eProcurement into the public sector. Client: IBM.
+- **2007–2009** E-Procurement & e-Sourcing Trends. Client: IBM.
+- **2007–2008** Furniture industry restructuring: solutions and tools – FIRST. Client: European Union.
+- **2006** Multi-project management. Client: Italcementi.
+
+```{=latex}
+\newpage
+```
+
+## Teaching
+### Teaching summary  
+- BSc/MSc/MBA/PhD and executive education in Purchasing, Supply Chain Management, Sustainability, Project Management, and Business Management (since 2006).  
+
+### Bachelor (BSc)  
+- **2006–2015 Politecnico di Milano** *Business Management* (about 50 out of 100 hours) - 9 editions - about 150 students.
+- **2011 and 2012 Politecnico di Milano** *Business Process Reengineering* (about 50 out of 70 hours) - 2 editions - about 20 students.  
+
+### Master (MSc)  
+- **2017–2025 EADA Business School** *Sustainable Operations* (30 hours) - about 30 students - Master in Sustainable Business & Innovation.
+- **2017–2025 EADA Business School** *Supply Chain Management* (35 hours) - about 90 students - Master in Management.
+- **2017–2019 EADA Business School** *Service Operations* (30 hours) - about 30 students - Master in Hospitality Management.
+- **2015–2016 Audencia Nantes** *Purchasing Management* (about 50 hours) - 1 edition - about 30 students - MSc in Purchasing & SCM (MASC).
+- **2009–2015 Politecnico di Milano** *Supply Chain Management* (about 20 out of 100 hours) - 7 editions - about 100 students - MSc in Management Engineering.
+- **2009–2013 Politecnico di Milano** *Purchasing Management* (about 50 out of 100 hours) - 5 editions - about 100 students - MSc in Management Engineering.
+- **2006–2014 Politecnico di Milano** *Project Management* (about 40 out of 60 hours) - 8 editions - about 40 students - MSc in Real Estate Management.
+- **2006 and 2008 Politecnico di Milano** *Airport Management* - 2 editions - University Masters.
+- **2006 Politecnico di Milano** *Easylog (logistics)* - 1 edition - University Masters.
+- **2005–2006 Politecnico di Milano** *Business Process Reengineering* (about 20 out of 50 hours) - 2 editions - about 20 students - MSc in Management Engineering.  
+
+### MBA  
+- **2017–2025 EADA Business School** *Operations Management core module* (30 hours) - 2 editions - about 60 students - Full time MBA.
+- **2016** *Operations and Supply Chain Management core module* (online program) - 1 edition - about 30 students - EuroMBA (www.euromba.org).
+- **2015 Audencia Nantes** *Sustainable Operations Management core module* (24 hours) - 1 edition - about 40 students - Full time MBA.
+- **2015 Audencia Nantes** *Sustainable Purchasing & SCM elective* (24 hours) - 1 edition - about 20 students - Full time MBA.
+- **2013–2015 Knowledge foundation Reutlingen** *Operations and SCM module* (1 week) - 2 editions - about 30 students - MBA for German officers (http://www.mba-fuer-offiziere.eu).
+
+### PhD  
+- **2024-2025 EIASM** *Sustainability in Supply Chains* (30 hours) - about 20 students - EDEN seminar.
+- **2025-2026 EADA** *Research methods* (5 hours) - about 10 students - DBA.
+
+### Executive courses  
+- **2019–2021** *Executive Online Master in Dirección de Logistica* (1 year, part time).
+- **2017–2018** *Global Executive Master in Operations and Supply Chain Management (GEMOS)* (1 year, part time).
+- **2013–2015** *International Master in Luxury Management (IMLUX)* (1 year, full time).
+- **2013–2015** *Executive MBA* (several formats).
+- **2012–2015** *Executive Program in Strategic Purchasing* (1 year, part time).
+- **2012–2015** *Short courses in Purchasing* (1–2 days).
+- **2010–2016** *International Master in Purchasing and Supply Chain Management (MSc. SCPM)* (1 year, full time).
+- **2007–2015** *Short courses in Decision Making & Consensus Building* (2–3 days).
+- **2007–2015** *Short courses in Project Management* (1–2 days).  
+
+### Custom corporate programs  
+Since 2009 I have been involved in the design and execution of custom programs for many companies from the manufacturing and service industry, normally taking the responsibility of contents related to the area of Purchasing and Supply Chain Management. Sample of companies: IBM, Cisco Systems, Finmeccanica (Leonardo), Unicredit, Mediolanum Bank, Reale Mutua, Vodafone, Luxottica.  
+
+### Tutoring 
+Since 2007, I have tutored and supervised individuals and groups on a wide range of projects within the scope of activities described above. I particularly value supervision because it enables close, one-to-one engagement and a tangible impact on candidates’ career development, helping them achieve their goals.
+
+```{=latex}
+\newpage
+```
+
+## Talks and academic events
+
+### Keynotes and invited talks
+- **2026** — *Rethinking growth for business resilience in supply ecosystems* (virtual keynote, joint session with H. Karaosman and ECOALF). Sustainable Brands Türkiye 2026, online.
+- **2026** — *The right method for the right cause: Empirical research strategies in purchasing and supply management* (Doctoral Workshop keynote). 35th IPSERA Conference, Helsinki-Espoo, Finland.
+- **2026** — *Rethinking supply chain management in a post-growth era*. AERCE Procurement Day Catalunya, Barcelona, Spain.
+- **2025** — *Post-growth implications for supply chain management*. EIPM 28th Annual Conference, Geneva, Switzerland.
+- **2025** — *Post-growth implications for global sourcing* (guest lecture). LUT Business School, Lappeenranta, Finland.
+- **2025** — *Post-growth and supply chain management*. GEMOS programme (MIP Politecnico di Milano), study week at EADA, Barcelona, Spain.
+- **2025** — *Towards an alternative approach for sustainable supply chain management research* (research seminar). IESE Business School, Barcelona, Spain.
+- **2024** — *Post-growth and supply chain management* (research seminar). LUT University, Lappeenranta, Finland.
+- **2024** — *Trends in quantitative OSCM research* (recorded guest lecture). PUC-Rio, Rio de Janeiro, Brazil, online.
+- **2022** — *The concept of systemic change* (with R. Ricucci, Ashoka). IPSERA Sustainability Workshop "Towards systemic change", online (also co-organiser).
+- **2021** — *The unintended consequences of norms in the Italian food industry*. 20th Tetranormalization Research Day (EADA, ISEOR, Le CNAM), Barcelona, Spain, and online.
+- **2020** — *A look at social impact supply chains in times of Covid* (with A. Longoni). IPSERA workshop "Sustainable supply chains versus Covid-19", online.
+- **2017** — Panel *Innovative value networks* (moderator, with speakers from DHL and SONAE). 3rd Global Supply Chain Research Forum, Zaragoza Logistics Center, Zaragoza, Spain.
+- **2017** — *Sostenibilidad en la cadena de suministro*. 17th Foro Internacional PILOT, Zaragoza, Spain.
+- **2016** — *Managing innovation within supply chains* (invited speaker). DSI Annual Conference, Austin, Texas, USA.
+
+### Editor panels and publishing workshops
+- **2026** — JSCM Online Paper Development Workshop, co-organiser with A. Wieland and H. Stolze (five afternoons, sessions on paragraphs, introductions and the editorial process), online.
+- **2026** — JSCM special-issue information webinars: *Toward novel ways of doing qualitative research in SCM* (January) and *Traditional knowledge and Indigenous worldviews* (September), online.
+- **2026** — Editors' panel (JSCM and JOM), OSCM Division Joint Junior Faculty and Doctoral Consortium, Academy of Management Annual Meeting, Philadelphia, USA.
+- **2026** — Journal editors' panel, CARISCA Supply Chain Research Summit, online.
+- **2026** — Editors' panel, European Research Seminar on Logistics and SCM (ERS), Madrid, Spain.
+- **2026** — Panel *Publication strategies* (with T. Hahn, R. Aguilera and G. Sharma), GRONEN PhD Days Doctoral Consortium, ESADE, Barcelona, Spain.
+- **2026** — Faculty, Journal Publishing Workshop, EurOMA Conference, Vienna, Austria.
+- **2026** — Meet the editors, 35th IPSERA Conference, Helsinki-Espoo, Finland.
+- **2026** — Invited speaker (online), Journée d'accompagnement à la publication, CRET-LOG, Aix-Marseille Université, France.
+- **2026** — JSCM Paper Development Workshop (with A. Wieland), ESCP Business School, Paris, France.
+- **2025** — Facilitator, PDW *Reviewing in leading journals: Best practices for advancing academic scholarship*, Academy of Management Annual Meeting, Copenhagen, Denmark.
+- **2025** — Faculty, 18th EurOMA Journal Publishing Workshop, Politecnico di Milano, Milan, Italy.
+- **2025** — Editorial panels and paper-feedback session, OMIS Workshop on publishing in top journals, Nottingham University Business School, UK.
+- **2025** — Panelist, *Doing research on sustainable supply chain management in challenging times*, AOM OSCM Division European Webinar, online.
+
+### Symposia, workshops and special sessions organised
+- **2026** — Lead organiser and co-moderator, PDW *Toward novel ways of conducting qualitative research: A developmental paper workshop* (JSCM), Academy of Management Annual Meeting, Philadelphia, USA.
+- **2026** — Co-organiser and co-chair, special session *Co-creating novel ways of doing qualitative research in SCM* (with E. Rosca, A. Seepma, V. Stephens, A. Wieland and H. Stolze), EurOMA Conference, Vienna, Austria.
+- **2026** — Co-organiser, *A collaborative exploration of the post-growth challenge: Linking theory to practice* (with L. Canal Vieira, M. Longo, A. Longoni, M. Mura and C. Vagnini), EurOMA Sustainable Operations and Supply Chains Forum, Porto, Portugal, and EurOMA Conference, Vienna, Austria.
+- **2026** — Co-organiser (with B. Cohanier), faculty workshop on intervention research with V. Zardet and A. Savall (ISEOR, Université Jean Moulin Lyon 3), EADA, Barcelona, Spain.
+- **2025** — Co-organiser, PDW *Better living through better theory: Prescriptive theorizing for decent work in global supply chains* (with A. Longoni, S. Fisher, M. Wasserman and F. Wiengarten), Academy of Management Annual Meeting, Copenhagen, Denmark.
+- **2025** — Organiser, PDW *Replication studies* (with W. Tate and F. Wynstra), 34th IPSERA Conference, Rotterdam, The Netherlands.
+- **2024** — Co-organiser (special-issue guest editor), JSCM Paper Development Workshop *Envisioning supply chains in a post-growth era*, ESCP Business School, London, UK.
+- **2024** — Organiser and speaker, PDW *Supply chains in a post-growth era: Theoretical developments and empirical examples*, Academy of Management Annual Meeting, Chicago, USA.
+- **2024** — Organiser and co-chair, special session *Operations and supply chain management in a post-growth era: Theoretical developments and empirical examples*, EurOMA Conference, ESADE, Sant Cugat del Vallès (Barcelona), Spain.
+- **2021** — Co-organiser and speaker, incubator *Are social enterprises the answer to solve sustainability issues in operations and supply chain management?* (with A. Longoni, C. Xiao, D. P. van Donk and M. Pullman), EurOMA Sustainable Operations and Supply Chains Forum, online.
+- **2021** — Moderator, panel *La academia como aceleradora del cambio*, first B Academics meeting in Spain, Sustainability Week, online.
+- **2019** — Contributor (with J. Gualandris and A. Longoni, *Mapping and measuring extended supply chain structures*), PDW *Putting the network into supply network research* (JSCM), Academy of Management Annual Meeting, Boston, USA.
+- **2018** — Contributor (with M. Pullman and A. Longoni, *Social impact supply chain management*), symposium *Not-for-profit focal firms in supply chain management: Future research directions*, Academy of Management Annual Meeting, Chicago, USA.
+- **2016** — Contributor, symposium *Diverse and multi-level approaches to achieve a sustainable global food supply chain*, Academy of Management Annual Meeting, Anaheim, USA.
+
+### Doctoral workshops, consortia and mentoring
+- **2025-2026** — Mentor, EurOMA Mentorship Programme (third edition).
+- **2025** — Research Incubator mentor, OSCM Division Joint Junior Faculty and Doctoral Consortium, Academy of Management Annual Meeting, Copenhagen, Denmark.
+- **2024** — Organiser and lecturer, EIASM EDEN Doctoral Seminar on Sustainability in Supply Chains (first edition), EADA, Barcelona, Spain.
+- **2021** — Faculty mentor, IPSERA Doctoral Workshop, online.
+- **2017** — Director, ZLC PhD Summer Academy, Zaragoza Logistics Center, Zaragoza, Spain.
+- **2014-2019** — Organiser, IPSERA Doctoral Workshop: South Africa (2014), Amsterdam (2015), Dortmund (2016), Budapest (2017), Athens (2018), Milan (2019).
+
+### Conference organisation and session chairing
+- **2023** — Conference Chair (with D. Knoppen), 32nd IPSERA Conference *Systemic change*, EADA and Universitat Pompeu Fabra, Barcelona, Spain.
+- **2019** — Co-organiser, EADA–Aston Research Interest Group kick-off on performance measurement and management, EADA, Barcelona, Spain.
+- **2012** — Co-organiser, Offshoring Research Network (ORN) Conference, Milan, Italy.
+- Session chair or moderator: IPSERA Conference (2014, 2015, 2016, 2018, 2019, 2025); European Research Seminar on Logistics and SCM (2017, 2021); EurOMA Conference (2021).
+
+## Awards and recognitions  
+- 2026 — Top 10% most-viewed paper among those published in 2024, Journal of Supply Chain Management (Wiley): *Rethinking Supply Chain Management in a Post-Growth Era*.
+- 2023 — Most downloaded paper recognitions: Journal of Supply Chain Management (two papers) and Journal of Operations Management.
+- 2019 — Best Paper Award, 28th IPSERA Conference, Milan: *Managing supply chains for social impact: Insights from migrants' work integration* (with A. Longoni and M. Pullman).
+- 2013 — Best paper award, 22nd IPSERA Conference, Nantes: *Designing vendor evaluation systems: An empirical analysis* (with F. Caniato, P. Bagnoli and G. Spina).
+- 2012 — Best PhD paper award, 19th EurOMA Conference, Amsterdam: *Supplier and purchasing function involvement in NPD: What are the effects?* (with A. S. Patrucco and S. Ronchi).
+- 2006 — “Pier Daniele Melegari” prize (Milan Chamber of Commerce) — MSc final grade 110/110 cum laude.
+- 2004 — “Excellent Student Award” (Business Finance and Financial Markets), RMIT exchange program.
+- 2003 — “Emilio Massa” prize (named among best students) — BSc final grade 110/110 cum laude.
+
+```{=latex}
+\newpage
+```
+
+## Publications  
+### Peer-reviewed journal articles
+
+::: {#refs-journals}
+:::
+
+### Books and chapters
+
+::: {#refs-books}
+:::
+
+### Practitioner articles
+
+::: {#refs-other}
+:::
+
+
+### Conference papers
+*Peer-reviewed papers and abstracts presented at international conferences, most recent first.*
+
+- Guida, M., & Luzzini, D. (2026). AI in procurement, and the quiet return of human judgment. *35th IPSERA Conference*, Helsinki-Espoo, Finland.
+- Akın Ateş, M., Luzzini, D., & Villena, V. H. (2026). Transparency paradoxes and responses in fashion supply chains: A supplier perspective. *86th Annual Meeting of the Academy of Management*, Philadelphia, USA. https://doi.org/10.5465/AMPROC.2026.19325abstract
+- Akın Ateş, M., Luzzini, D., & Villena, V. H. (2026). Lifting the veil: Transparency paradoxes and responses in fashion supply chains from a supplier perspective. *33rd EurOMA Conference*, Vienna, Austria.
+- Akın Ateş, M., Soleimani Zarrin, S., Luzzini, D., & van Donk, D. P. (2026). Pathways to supplier sustainability performance: A configurational analysis of complexity and integration. *33rd EurOMA Conference*, Vienna, Austria.
+- Mirzabeiki, V., Son, B.-G., Banerjee, A., & Luzzini, D. (2026). The dark side of supply chain digitalization: Opportunism and exclusion due to digital divide. *33rd EurOMA Conference*, Vienna, Austria.
+- Shevchenko, A., & Luzzini, D. (2026). A footprint perspective for sustainable supply chain management research. *13th EurOMA Sustainable Operations and Supply Chains Forum*, Porto, Portugal.
+- Luzzini, D., Vinayavekhin, S., & Akın Ateş, M. (2025). Developing a perceptual scale for upstream supply chain complexity. *34th IPSERA Conference*, Rotterdam, The Netherlands.
+- Ronchini, A., Luzzini, D., & Moretto, A. (2025). Adoption of additive manufacturing services by urban production centres: Implications for companies in terms of social impact. *34th IPSERA Conference*, Rotterdam, The Netherlands.
+- Galli, G., Siragusa, C., Luzzini, D., & Tumino, A. (2025). Green logistics in food supply chains. *34th IPSERA Conference*, Rotterdam, The Netherlands.
+- Akın Ateş, M., & Luzzini, D. (2024). Trade-offs in supply chain disclosure: Impact on supplier sustainability in the textile industry. *11th EurOMA Sustainable Operations and Supply Chains Forum*, Hamburg, Germany.
+- Akın Ateş, M., & Luzzini, D. (2023). The impact of supply chain disclosure on supplier sustainability: A qualitative analysis in the textile industry. *EDSI Annual Conference*, Nantes, France.
+- Akın Ateş, M., & Luzzini, D. (2023). Supply network complexity: A systematic review and research agenda. *32nd IPSERA Conference*, Barcelona, Spain.
+- Akın Ateş, M., & Luzzini, D. (2022). Strategic purchasing impact on sustainability performance: The missing links of supplier integration and supply base complexity. *31st IPSERA Conference*, Jönköping, Sweden (hybrid).
+- Akın Ateş, M., & Luzzini, D. (2021). Dimensions, management and outcomes of supply base complexity: A systematic literature review. *52nd Decision Sciences Institute Annual Conference*, online.
+- Akın Ateş, M., Suurmond, R., Luzzini, D., & Krause, D. (2021). Supply chain complexity: A meta-analysis. *28th EurOMA Conference*, online.
+- Akın Ateş, M., & Luzzini, D. (2021). Unraveling the effects of strategic purchasing on sustainability performance: The role of supplier integration and supply base complexity. *11th EDSI Annual Conference*, Lund, Sweden (online).
+- Difrancesco, R. M., Roman, D., Cohanier, B., & Luzzini, D. (2021). Performance management in omnichannel retail. *20th International Marketing Trends Conference*, Venice, Italy (online).
+- Akın Ateş, M., Suurmond, R., Luzzini, D., & Krause, D. (2020). A meta-analysis of supply chain complexity and firm performance. *80th Annual Meeting of the Academy of Management*, online.
+- Gualandris, J., Longoni, A., & Luzzini, D. (2020). Towards supply chain transparency: Examining structure and disclosure in extended supply chains. *29th IPSERA Conference* (proceedings; conference cancelled due to Covid-19).
+- Gualandris, J., Longoni, A., & Luzzini, D. (2019). Towards supply chain transparency: Linking supply chain structure to collective ESG disclosure. *79th Annual Meeting of the Academy of Management*, Boston, USA.
+- Gualandris, J., Longoni, A., & Luzzini, D. (2019). Collective ESG disclosure in supply chains. *POMS Annual Conference*, Washington, DC, USA.
+- Luzzini, D., & Longoni, A. (2019). Social impact supply chain management: Insights from migrants' integration. *EURAM Conference*, Lisbon, Portugal.
+- Longoni, A., Luzzini, D., & Pullman, M. (2019). Managing supply chains for social impact: Insights from migrants' integration. *28th IPSERA Conference*, Milan, Italy. Best Paper Award.
+- Krause, D., & Luzzini, D. (2019). The process of value creation: Connecting purchasing and supply management to strategy. *28th IPSERA Conference*, Milan, Italy.
+- Akın Ateş, M., Suurmond, R., & Luzzini, D. (2019). Order from chaos: A meta-analytic approach to supply chain complexity. *28th IPSERA Conference*, Milan, Italy.
+- Longoni, A., Luzzini, D., & Pullman, M. (2019). Business for society is society's business: Insights from social impact supply chain management for migrant integration. *6th EurOMA Sustainable Operations and Supply Chains Forum*, Gothenburg, Sweden.
+- Gualandris, J., Longoni, A., & Luzzini, D. (2018). Collective ESG disclosure in supply chains. *INFORMS Annual Meeting*, Phoenix, USA.
+- Pullman, M., Longoni, A., & Luzzini, D. (2018). Social impact supply chain management: Relationship management approaches in presence of institutional complexity. *POMS International Conference*, Granada, Spain.
+- Berkowitz, H., Longoni, A., Luzzini, D., & Guérineau, M. (2018). Reorganizing sustainable local seafood systems in the Mediterranean: A conceptual framework. *78th Annual Meeting of the Academy of Management*, Chicago, USA.
+- Berkowitz, H., Longoni, A., Luzzini, D., & Guérineau, M. (2018). Towards an integrative framework of sustainable seafood supply in the Mediterranean. *AIMS Conference*, Montpellier, France.
+- Ehrler, V. C., Seidel, S., Lischke, A., Davydenko, I., Dobers, K., Lewis, A., Val, S., & Luzzini, D. (2018). Standardization of transport chain emission calculation: Status quo and what is needed next. *7th Transport Research Arena*, Vienna, Austria. https://doi.org/10.5281/zenodo.1487521
+- Krause, D., & Luzzini, D. (2018). Creation of competitive advantage through supply management capabilities: A resource orchestration perspective. *27th IPSERA Conference*, Athens, Greece.
+- Pullman, M., Luzzini, D., & Longoni, A. (2018). Building the case for social impact supply chains: Conceptualization and research agenda. *27th IPSERA Conference*, Athens, Greece.
+- Legenvre, H., Gualandris, J., & Luzzini, D. (2018). Combining the power of distant capabilities: A research agenda. *27th IPSERA Conference*, Athens, Greece.
+- Pullman, M., Longoni, A., & Luzzini, D. (2018). Social impact supply chains: A typology. *5th EurOMA Sustainable Operations and Supply Chains Forum*, Kassel, Germany.
+- Patrucco, A. S., Luzzini, D., Moretto, A., & Ronchi, S. (2017). Attraction in business relationships: The strategic relevance of customer attractiveness to improve supply performance. *48th Decision Sciences Institute Annual Meeting*, Washington, DC, USA.
+- Patrucco, A. S., Pellizzoni, E., Luzzini, D., & Frattini, F. (2017). Innovation from the triadic perspective: The impact of supplier integration on new product development performance. *48th Decision Sciences Institute Annual Meeting*, Washington, DC, USA.
+- Krause, D., & Luzzini, D. (2017). Measuring and managing the performance of the firm's external suppliers. *9th Conference on Performance Measurement and Management Control (PMA)*, Nice, France.
+- Annevelink, B., Van Gogh, B., Nogués, F. S., Espatolero, S., De La Cruz, T., Luzzini, D., Karampinis, M., Kougioumtzis, M., & Olsson, J. (2017). Conceptual description of an integrated biomass logistics centre (IBLC). *25th European Biomass Conference and Exhibition*, Stockholm, Sweden.
+- Longoni, A., Luzzini, D., & Pullman, M. (2017). Tensions in sustainable supply chain management: The case of social enterprises. *28th POMS Annual Conference*, Seattle, USA.
+- Maestrini, V., Caniato, F., & Luzzini, D. (2017). Many to many supply chain performance measurement systems. *26th IPSERA Conference*, Budapest-Balatonfüred, Hungary.
+- Legenvre, H., Gualandris, J., & Luzzini, D. (2017). Network dynamics and sustainable innovations: The beverage company, the start-up and the connected vending machine. *26th IPSERA Conference*, Budapest-Balatonfüred, Hungary.
+- Longoni, A., Luzzini, D., & Pullman, M. (2017). Inclusive food supply chains. *EurOMA Sustainable Operations and Supply Chains Forum*, Milan, Italy.
+- Krause, D., & Luzzini, D. (2016). A RBT perspective of buyer-supplier relationships: Antecedents and outcomes of alignment capabilities. *47th Decision Sciences Institute Annual Meeting*, Austin, Texas, USA.
+- Gualandris, J., Legenvre, H., & Luzzini, D. (2016). Innovation networks: Conceptual framework and preliminary evidence. *47th Decision Sciences Institute Annual Meeting*, Austin, Texas, USA.
+- Longoni, A., & Luzzini, D. (2016). Relational governance in the coffee supply chain: A social capital perspective. *47th Decision Sciences Institute Annual Meeting*, Austin, Texas, USA.
+- Patrucco, A. S., Luzzini, D., Ronchi, S., & Walker, H. (2016). Organizational configurations for local government procurement. *76th Annual Meeting of the Academy of Management*, Anaheim, USA.
+- Maestrini, V., Luzzini, D., Caniato, F., & Maccarrone, P. (2016). Supplier performance measurement systems use, relationship capabilities and supplier's performance: A dyadic survey project. *23rd EurOMA Conference*, Trondheim, Norway.
+- Maestrini, V., Luzzini, D., Caniato, F., & Maccarrone, P. (2016). The impact of an ambidextrous supply chain governance on supplier performance: The role of supplier performance measurement systems. *23rd EurOMA Conference*, Trondheim, Norway.
+- Luzzini, D., & Miemczyk, J. (2016). Sustainable purchasing: The influence of supply chain integration and risk practices on the triple bottom line. *23rd EurOMA Conference*, Trondheim, Norway.
+- Luzzini, D., & Miemczyk, J. (2016). Sustainable purchasing: The influence of risk practices on the triple bottom line. *7th EDSI Conference*, Helsinki, Finland.
+- Maestrini, V., Luzzini, D., Caniato, F., & Maccarrone, P. (2016). Supplier performance measurement systems use, relationship capabilities and supplier's performance: A dyadic survey project. *25th IPSERA Conference*, Dortmund, Germany.
+- Patrucco, A. S., Ronchi, S., & Luzzini, D. (2016). Centralizing or not? Using e-procurement for enhancing procurement centralization benefits in local governments. *25th IPSERA Conference*, Dortmund, Germany.
+- Maestrini, V., Luzzini, D., Caniato, F., Maccarrone, P., & Ronchi, S. (2016). The impact of supplier performance measurement system use on supplier performance: The mediation effect of relationship trust. *AiIG Annual Conference*, Bergamo, Italy.
+- Luzzini, D., & Longoni, A. (2015). Do HRM practices help to translate stakeholder pressures into environmental performance? *75th Annual Meeting of the Academy of Management*, Vancouver, Canada.
+- Maestrini, V., & Luzzini, D. (2015). Supply chain performance measurement system lifecycle: Theoretical framework and empirical evidence from a supply chain case study. *75th Annual Meeting of the Academy of Management*, Vancouver, Canada.
+- Longoni, A., & Luzzini, D. (2015). Illy: A case of sustainable supply chain innovation. *Workshop "Organizing supply chain processes for sustainable innovation in the agri-food industry"*, Expo 2015, Milan, Italy.
+- Caniato, F., Gelsomino, L. M., Luzzini, D., Perego, A., & Ronchi, S. (2015). Model and measures for the supply chain financial assessment. *22nd EurOMA Conference*, Neuchâtel, Switzerland.
+- Maestrini, V., Luzzini, D., Caniato, F., & Ronchi, S. (2015). Effects of strategic supplier performance measurement systems on supplier performance: The role of supplier opportunism and goal congruence. *22nd EurOMA Conference*, Neuchâtel, Switzerland.
+- Caniato, F., Gelsomino, L. M., Luzzini, D., Perego, A., & Ronchi, S. (2015). Measuring the financial performance of a supply chain: Theory and practice. *24th IPSERA Conference*, Amsterdam, The Netherlands.
+- Maestrini, V., Luzzini, D., Caniato, F., & Ronchi, S. (2015). Effects of strategic supplier performance measurement systems on supplier performance: The role of supplier opportunism and goal congruence. *24th IPSERA Conference*, Amsterdam, The Netherlands.
+- Caniato, F., Maccarrone, P., Maestrini, V., & Luzzini, D. (2015). Supply chain performance measurement system lifecycle. *26th AiIG Annual Scientific Meeting*, Italy.
+- Luzzini, D., Longoni, A., & Guerci, M. (2014). Green HRM and SCM practices and their effects on environmental and economic performance. *74th Annual Meeting of the Academy of Management*, Philadelphia, USA.
+- Luzzini, D., Longoni, A., & Guerci, M. (2014). Green supply chain management and performance achievement: The role of human resources. *21st EurOMA Conference*, Palermo, Italy.
+- Maestrini, V., Luzzini, D., & Maccarrone, P. (2014). Measuring supply chain performance: A literature review and research agenda. *21st EurOMA Conference*, Palermo, Italy.
+- Luzzini, D., Longoni, A., & Guerci, M. (2014). Green HRM practices as antecedents of green SCM practices and organizational performance. *23rd IPSERA Conference*, South Africa.
+- Caniato, F., Gelsomino, L. M., Luzzini, D., Perego, A., Ronchi, S., & Tumino, A. (2014). Supply chain finance: Empirical evidences from multiple cases. *23rd IPSERA Conference*, South Africa.
+- Maestrini, V., Luzzini, D., & Maccarrone, P. (2014). An empirical analysis of process-oriented supply chain performance measurement systems. *23rd IPSERA Conference*, South Africa.
+- Caniato, F., Elia, S., Luzzini, D., & Piscitello, L. (2014). Internalization or outsourcing? The performance implications of the governance mode choice in the global sourcing of firms' functions. *41st AIB UK & Ireland Conference*, York, UK.
+- Luzzini, D., & Ronchi, S. (2013). Defining the purchasing strategy: An empirical exploration of its content and the relation with purchasing status and maturity. *20th EurOMA Conference*, Dublin, Ireland.
+- Patrucco, A. S., Luzzini, D., & Ronchi, S. (2013). A systematic literature review on public procurement: Past trends, future developments. *20th EurOMA Conference*, Dublin, Ireland.
+- Caniato, F., Luzzini, D., Bagnoli, P., & Spina, G. (2013). Designing vendor evaluation systems: An empirical analysis. *22nd IPSERA Conference*, Nantes, France. Best paper award.
+- Caniato, F., Elia, S., Luzzini, D., & Piscitello, L. (2013). Choosing the governance mode to perform well in global sourcing strategies. *39th EIBA Annual Conference*, Bremen, Germany.
+- Elia, S., Caniato, F., Luzzini, D., & Piscitello, L. (2013). Choosing the offshoring governance mode: The moderating effect on location drivers and the impact on (strategic and operational) performance. *24th AiIG Annual Scientific Meeting*, Italy.
+- Patrucco, A. S., Luzzini, D., & Ronchi, S. (2012). Supplier and purchasing function involvement in NPD: What are the effects? *19th EurOMA Conference*, Amsterdam, The Netherlands. Best PhD paper award.
+- Luzzini, D., Caniato, F., Ronchi, S., & Spina, G. (2012). Past, present, and future trends of purchasing and supply management: An extensive literature review. *19th EurOMA Conference*, Amsterdam, The Netherlands.
+- Piscitello, L., Elia, S., Luzzini, D., Caniato, F., & Ronchi, S. (2012). Governing offshoring: Evidence from an international survey. *19th EurOMA Conference*, Amsterdam, The Netherlands.
+- Caniato, F., Elia, S., Luzzini, D., Piscitello, L., & Ronchi, S. (2012). The strategic choice between outsourcing and FDI in assessing the effects of location characteristics on the offshoring performance. *32nd SMS Annual International Conference*, Prague, Czech Republic.
+- Caniato, F., Elia, S., Luzzini, D., Piscitello, L., & Ronchi, S. (2012). The impact of location choice and governance model on the offshoring performance. *AIB Annual Meeting*, Washington, DC, USA.
+- Caniato, F., Elia, S., Luzzini, D., Piscitello, L., & Ronchi, S. (2012). Offshoring and performance: The role of governance mode and host country characteristics. *ITSG Conference*.
+- Caniato, F., Elia, S., Luzzini, D., Piscitello, L., & Ronchi, S. (2012). Location drivers as antecedents of offshoring performance: The moderating effect of the governance model. *ORN International Conference "The global sourcing of innovation"*.
+- Caniato, F., Elia, S., Luzzini, D., Piscitello, L., & Ronchi, S. (2012). Location drivers as antecedents of offshoring performance: The effect of the governance mode. *23rd AiIG Annual Scientific Meeting*, Matera, Italy.
+- Caniato, F., Luzzini, D., Crippa, L., & Golini, R. (2012). Short supply chain configurations in the Italian food industry. *21st IPSERA Conference*, Naples, Italy.
+- Caniato, F., Elia, S., Luzzini, D., Piscitello, L., & Ronchi, S. (2012). Captive or outsourcing offshoring? The performance implications of locations specific characteristics under different governance models. *21st IPSERA Conference*, Naples, Italy.
+- Luzzini, D., Patrucco, A. S., & Ronchi, S. (2012). An overview of customer attractiveness: Outcomes and antecedents. *21st IPSERA Conference*, Naples, Italy.
+- Luzzini, D., Almici, R., & Spina, G. (2011). Sustainable purchasing through inter and intra-firm collaboration. *18th EurOMA Conference*, Cambridge, UK.
+- Amann, M., Caniato, F., Essig, M., Luzzini, D., & Ronchi, S. (2011). The path of innovation: Purchasing and supplier involvement into new product development. *20th IPSERA Conference*, Maastricht, The Netherlands.
+- Knoppen, D., Akın Ateş, M., Brandon-Jones, A., Luzzini, D., van Raaij, E., & Wynstra, F. (2011). Pooling survey data in the operations and supply management literature: A review and illustration of equivalence tests. *20th IPSERA Conference*, Maastricht, The Netherlands.
+- Caniato, F., Luzzini, D., Ronchi, S., & Spina, G. (2010). A portfolio approach to purchasing strategy. *21st AiIG Annual Scientific Meeting*, L'Aquila, Italy.
+- Knoppen, D., Bernardes, E., Brandon-Jones, A., Dabhilkar, M., KITE research group, Luzzini, D., Ronchi, S., & van Raaij, E. (2010). Analysis of equivalence among sub-samples: Preliminary results of the International Purchasing Survey. *17th EurOMA Conference*, Porto, Portugal.
+- Ferrari, I., Luzzini, D., & Ronchi, S. (2010). Cinderella purchasing. *17th EurOMA Conference*, Porto, Portugal.
+- Caniato, F., Luzzini, D., & Ronchi, S. (2010). A portfolio approach to purchasing strategy. *17th EurOMA Conference*, Porto, Portugal.
+- Crippa, L., Golini, R., & Luzzini, D. (2010). Short supply chain strategies in the Italian food industry: An exploratory study. *17th EurOMA Conference*, Porto, Portugal.
+- Caniato, F., Luzzini, D., & Ronchi, S. (2010). New directions for portfolio management. *19th IPSERA Conference*, Lappeenranta, Finland.
+- Ferrari, I., Luzzini, D., & Spina, G. (2010). Sustainable purchasing practices. *19th IPSERA Conference*, Lappeenranta, Finland.
+- Luzzini, D., & Ronchi, S. (2009). Purchasing management in the luxury industry. *16th EurOMA Conference*, Gothenburg, Sweden.
+- Caniato, F., & Luzzini, D. (2009). A proposal for research in purchasing and supply management. *18th IPSERA Conference*, Wiesbaden, Germany.
+- Brun, A., Caniato, F., Fan, X., & Luzzini, D. (2009). Information technology purchasing organization. *18th IPSERA Conference*, Wiesbaden, Germany.
+- Caniato, F., Luzzini, D., & Ronchi, S. (2008). Purchasing performance management systems and strategy: Classification of KPIs and empirical analysis. *19th AiIG Annual Scientific Meeting*, Palermo, Italy.
+- Caniato, F., Luzzini, D., & Ronchi, S. (2008). Purchasing performance management systems and strategy: Classification of KPIs and empirical analysis. *15th EurOMA Conference*, Groningen, The Netherlands.
+- Luzzini, D., & Ronchi, S. (2008). Purchasing managed innovation. *15th EurOMA Conference*, Groningen, The Netherlands.
+- Brun, A., Caniato, F., Luzzini, D., Ronchi, S., & Spina, G. (2008). IT eProcurement models and trends. *15th EurOMA Conference*, Groningen, The Netherlands.
+- Brivio, O., Caniato, F., Ronchi, S., & Luzzini, D. (2007). Total cost of ownership along the supply chain: A model applied to the tinting industry. *16th IPSERA Conference*, Bath, UK.
+- Ronchi, S., Luzzini, D., Sianesi, A., & Spina, G. (2006). Supply chain coordination: The problem of risks and benefits sharing. *13th EurOMA Conference*, Glasgow, UK.

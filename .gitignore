@@ -1,0 +1,10 @@
+.quarto/
+.DS_Store
+/.luarc.json
+# private CV profile: contact details never enter the public repo
+_quarto-private.yml
+*-private.pdf
+*-private.html
+
+/.quarto/
+**/*.quarto_ipynb

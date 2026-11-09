@@ -1,0 +1,11 @@
+project:
+  title: "Davide Luzzini - CV"
+
+profile:
+  default: public
+
+format:
+  html:
+    css: styles/styles.css
+  pdf:
+    include-in-header: tex/preamble.tex
